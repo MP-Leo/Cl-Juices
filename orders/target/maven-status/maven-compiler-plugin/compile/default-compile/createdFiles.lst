@@ -1,0 +1,11 @@
+br\com\cljuices\orders\repository\OrderRepository.class
+br\com\cljuices\orders\model\Order.class
+br\com\cljuices\orders\controller\OrderController.class
+br\com\cljuices\orders\service\OrderService.class
+br\com\cljuices\orders\config\MapperConfig.class
+br\com\cljuices\orders\dto\OrderItemDTO.class
+br\com\cljuices\orders\OrderApplication.class
+br\com\cljuices\orders\dto\OrderDTO.class
+br\com\cljuices\orders\model\OrderItem.class
+br\com\cljuices\orders\dto\StatusDto.class
+br\com\cljuices\orders\model\Status.class
